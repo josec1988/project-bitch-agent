@@ -1,4 +1,4 @@
-# project-bitch-agent
+# project-cli-agent
 Local AI assistant CLI for Workflows
 # Project Bitch Agent
 
